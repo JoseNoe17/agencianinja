@@ -48,7 +48,7 @@ Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y
 Wiki 📖
 https://ecoemprendedorxxi.es/
 https://finanzasinversion.com/
-
+https://punto2012.mx/
 Versionado 📌
 Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
 
