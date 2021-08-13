@@ -46,6 +46,7 @@ Contribuyendo 🖇️
 Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 Wiki 📖
+https://www.setroi.com/
 https://ecoemprendedorxxi.es/
 https://finanzasinversion.com/
 https://punto2012.mx/
