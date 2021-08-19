@@ -17,7 +17,7 @@ Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener u
 Dí cómo será ese paso
 
 Da un ejemplo
-Y repite
+https://diarioalbacete.com/
 
 hasta finalizar
 Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
